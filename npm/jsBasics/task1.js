@@ -1,0 +1,11 @@
+const str = 'Hello';
+const num = 23;
+const dz = true;
+let b = 250;
+b = undefined;
+const vp = null;
+console.log(str);
+console.log(num);
+console.log(dz);
+console.log(b);
+console.log(vp);
