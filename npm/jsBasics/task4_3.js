@@ -1,3 +1,4 @@
 let radius = 16;
 let height = 6;
-console.log(Math.PI * radius / 2 * height);
+let x = Math.PI * radius / 2 * height;
+console.log(x.toFixed(2));
